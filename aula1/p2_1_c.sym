@@ -1,0 +1,14 @@
+GAS LISTING p2_1_c.s 			page 1
+
+
+DEFINED SYMBOLS
+            p2_1_c.s:2      .data:0000000000000000 str1
+            p2_1_c.s:3      .data:000000000000002a str2
+            p2_1_c.s:4      .data:0000000000000047 str3
+            p2_1_c.s:5      .data:000000000000005a str4
+            p2_1_c.s:6      .data:000000000000006e str5
+            p2_1_c.s:7      .data:000000000000008d str6
+            p2_1_c.s:11     .text:0000000000000000 main
+            p2_1_c.s:13     .text:0000000000000000 while
+
+NO UNDEFINED SYMBOLS

@@ -1,0 +1,26 @@
+GAS LISTING p2_4.s 			page 1
+
+
+DEFINED SYMBOLS
+              p2_4.s:2      .data:0000000000000000 str1
+              p2_4.s:3      *ABS*:000000000000000b read_core_timer
+              p2_4.s:4      *ABS*:000000000000000c reset_core_timer
+              p2_4.s:5      *ABS*:0000000000000003 put_char
+              p2_4.s:6      *ABS*:0000000000000006 print_int
+              p2_4.s:7      *ABS*:0000000000000001 inkey
+              p2_4.s:10     .text:0000000000000000 main
+              p2_4.s:19     .text:000000000000001c while
+              p2_4.s:23     .text:0000000000000024 if1_1
+              p2_4.s:26     .text:000000000000003c if1_2
+              p2_4.s:29     .text:0000000000000054 if1_3
+              p2_4.s:37     .text:000000000000007c endifs_1
+              p2_4.s:31     .text:0000000000000060 while_pause
+              p2_4.s:94     .text:000000000000012c delay
+              p2_4.s:66     .text:00000000000000dc if1
+              p2_4.s:70     .text:00000000000000f4 if2
+              p2_4.s:74     .text:0000000000000108 endifs
+              p2_4.s:80     .text:000000000000011c endw
+              p2_4.s:98     .text:0000000000000138 while_delay
+              p2_4.s:104    .text:0000000000000160 endw_delay
+
+NO UNDEFINED SYMBOLS
